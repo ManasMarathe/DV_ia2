@@ -4,7 +4,7 @@
 
 
 ## Acknowledgements
-We would like to thank Prof. Vaibhav Vasani for his insightful tips and guidance throughtout the course and helping us acheive what we were able to do.
+We would like to thank Prof. Vaibhav Vasani and Prof Swapnil Pawar for their insightful tips and guidance throughtout the course and helping us acheive what we were able to do.
  - [Dataset](https://www.kaggle.com/godfatherfigure/healthcare-dataset-stroke-data)
  - [My kaggle](https://www.kaggle.com/manasmarathe)
  
