@@ -1,5 +1,5 @@
 # Heart Diseases EDA
-Provided a deep insight into the distribution of Heart diseases and  of across the globe fuelled by statistical analysis of the same.
+Provided a deep insight into the distribution of Heart diseases with respective smoking, Age, Hypertension and the their living conditions fuelled by statistical analysis of the same.
 
 
 
